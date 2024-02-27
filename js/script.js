@@ -9,7 +9,7 @@ const myList = [
   'Acqua',
   'Patatine',
   'Crocchette per cani',
-  'Snack',
+  'Snack'
 ]
 
 let c = 0;
